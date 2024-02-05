@@ -1,1 +1,1 @@
-This is a mern project creating a bookstore app.
+This is a mern project creating a bookstore.
